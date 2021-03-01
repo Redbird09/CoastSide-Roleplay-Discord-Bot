@@ -64,4 +64,4 @@ bot.on('guildMemberAdd', (member) => {
     setDescription(`Thank you for joining my server! Make sure to stay active and talk to the other members!\nCurrent Member Count: ${member.guild.memberCount}`)
 })
 
-bot.login("ODE1NjgxNjQ1MTA5NTc1Njgw.YDv8ug.ot5Ce7l7ysuCqTlYIiYrh6Q0Zqs")
+bot.login("TOKEN")
